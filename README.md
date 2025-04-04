@@ -4,7 +4,6 @@ Este projeto web apresenta uma charada diferente a cada vez que a página é car
 
 ## Índice
 
-* [Conteúdo](#conteudo)
 * [Funionalidades](#funcionalidades)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Como Usar](#como-usar)
@@ -30,7 +29,7 @@ Este projeto é composto por três arquivos principais:
 * ![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 * ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-* ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+* ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Como Usar
 
