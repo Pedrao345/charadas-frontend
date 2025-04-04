@@ -42,4 +42,4 @@ Este projeto é composto por três arquivos principais:
 
 ## Repositório API
 
-- Venha conhecer também meu projeto backend das charadas: https://github.com/Pedrao345/Projeto-Charadas.git
+- Venha conhecer também meu projeto Backend das charadas: https://github.com/Pedrao345/Projeto-Charadas.git
