@@ -41,4 +41,5 @@ Este projeto é composto por três arquivos principais:
 5.  Clique em "Próxima Charada" para obter uma nova charada.
 
 ## Repositório API
+
 - Venha conhecer também meu projeto backend das charadas: https://github.com/Pedrao345/Projeto-Charadas.git
