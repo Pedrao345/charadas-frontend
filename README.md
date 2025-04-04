@@ -4,7 +4,7 @@ Este projeto web apresenta uma charada diferente a cada vez que a página é car
 
 ## Índice
 
-* [Funionalidades](#funcionalidades)
+* [Funcionalidades](#funcionalidades)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Como Usar](#como-usar)
 
