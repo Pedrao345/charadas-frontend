@@ -7,7 +7,7 @@ Este projeto web apresenta uma charada diferente a cada vez que a página é car
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Como Usar](#como-usar)
-* [Repositório API](#repositorio-api)
+* [Repositório API](#repositório-api)
 
 
 ## Conteúdo
