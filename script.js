@@ -1,5 +1,5 @@
-const baseUrl = "http://127.0.0.1:5000/"
-const aleatorio = "charadas"
+const baseUrl = "https://projeto-charadas.vercel.app"
+const aleatorio = "/charadas"
 let pergunta = document.getElementById('charada')
 let resposta = document.getElementById('resposta')
 let input_resposta = document.getElementById('input-resposta')
