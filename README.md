@@ -39,4 +39,5 @@ Este projeto é composto por três arquivos principais:
 4.  Clique em "Ver resposta" para ver se você acertou.
 5.  Clique em "Próxima Charada" para obter uma nova charada.
 
-**Observação:** Certifique-se de que a API de charadas esteja rodando no endereço especificado para que o script funcione corretamente.
+## Repositório API
+- Venha conhecer também meu projeto backend das charadas: https://github.com/Pedrao345/Projeto-Charadas.git
